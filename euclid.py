@@ -1,3 +1,6 @@
+# This function computes the GCD of two numbers
+# it uses Euclid's algorithm to do the same.
+
 def an_and_gcd(a, b):
   '''
   Euclid's algorithm for gcd of two numbers

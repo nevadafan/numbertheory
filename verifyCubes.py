@@ -1,4 +1,14 @@
-# verify that the sum of the first n cubes is equal to the square of the first n numbers
+#
+# number theory examples
+# EXAMPLE 001
+# verify that the sum of the first n cubes is equal to the square of S, where S is the sum of the first n numbers
+#
+# that is: 
+# sigma(1 to n) => S
+# sigma(1 to n^3) => S1
+#
+# To verify that: S*S = S1
+#
 
 def verify_until(num_iterations):
 
